@@ -4,12 +4,6 @@ A responsive food ordering website with a dynamic menu and a slide-in shopping c
 
 🔗 *Live Demo:* [https://fooddelivery-lovat-eta.vercel.app] (https://fooddelivery-lovat-eta.vercel.app/)
 
-![Preview]<p align="center">
-  <img src="assests/hero-page.jpeg" width="400">
-</p>
-<p align="center">
-  <img src="assests/app-page.jpeg" width="400">
-</p>
 
 ## 📖 About the Project
 
