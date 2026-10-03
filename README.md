@@ -2,7 +2,7 @@
 
 A responsive food ordering website with a dynamic menu and a slide-in shopping cart, built with HTML, CSS and vanilla JavaScript (no frameworks).
 
-🔗 *Live Demo:* [https://fooddelivery-lovat-eta.vercel.app] (https://fooddelivery-lovat-eta.vercel.app/)
+🔗 *Live Demo:* [fooddelivery-lime-nine.vercel.app] 
 
 
 ## 📖 About the Project
