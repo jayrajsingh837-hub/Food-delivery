@@ -9,7 +9,7 @@ A responsive food ordering website with a dynamic menu and a slide-in shopping c
 
 ## 📖 About the Project
 
-I built this project to strengthen my front-end fundamentals and practise building a real, working interface from scratch. The goal was to understand how a shopping cart works under the hood: fetching data, rendering it to the page, and keeping the UI and the totals in sync, all without relying on a framework.
+I built this project to strengthen my front-end fundamentals and practise building a real, working interface from scratch. The goal was to understand how a  shopping cart works under the hood: fetching data, rendering it to the page, and keeping the UI and the totals in sync, all without relying on a framework.
 
 ## ✨ Features
 
